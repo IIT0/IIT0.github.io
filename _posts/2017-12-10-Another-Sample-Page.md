@@ -1,9 +1,9 @@
 ---
-title: Another Sample Page
+title: Mi primer artículo.
 published: true
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+Hola a todos soy ITT0, este es mi primer artículo
 
 [Link to another page](another-page).
 
